@@ -1,2 +1,2 @@
 # EasySocial
-Traducción española EasySocial
+Traducción español EasySocial
